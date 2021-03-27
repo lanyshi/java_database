@@ -1,5 +1,5 @@
 # Handling MySQL and MongoDB databases with Java
-Basic data handling with Java, mysql.MySQL and MongoDB
+Basic data handling with Java, MySQL and MongoDB
 
 ## MySQL
 Given a database, this program is able to create a table ```pet``` if ```pet``` doesn't already exist.
