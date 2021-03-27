@@ -1,4 +1,4 @@
-# java_database
+# Handling MySQL and MongoDB databases with Java
 Basic data handling with Java, mysql.MySQL and MongoDB
 
 ## MySQL
